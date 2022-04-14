@@ -7,15 +7,15 @@
 
 <script>
 //import HelloWorld from './components/HelloWorld.vue'
-import Title from './components/Title.vue'
-import Hero from './components/Hero.vue'
+import TitleComp from './components/TitleComp.vue'
+import HeroComp from './components/HeroComp.vue'
 
 export default {
   name: 'App',
   components: {
     //HelloWorld,
-    Title,
-    Hero
+    TitleComp,
+    HeroComp
   }
 }
 </script>
