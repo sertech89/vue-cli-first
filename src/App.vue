@@ -6,14 +6,12 @@
 </template>
 
 <script>
-//import HelloWorld from './components/HelloWorld.vue'
 import TitleComp from './components/TitleComp.vue'
 import HeroComp from './components/HeroComp.vue'
 
 export default {
   name: 'App',
   components: {
-    //HelloWorld,
     TitleComp,
     HeroComp
   }
